@@ -6,7 +6,7 @@
 - **CORS** - Manipulação de acesso à API
 - **PG** / postgreSQL - Banco de Dados SQL
 - **TYPEORM** - ORM de banco de dados Relacional
-- **TUP** - Validação de Schema da Request
+- **YUP** - Validação de Schema da Request
 - **DOTENV** - Variáveis de ambiente
 - **BCRYPT** - Criptocrafia de senha de usuário
 - **JSONWEBTOKEN** / **JWT** - Autenticação de usuário com TOKEN
