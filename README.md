@@ -13,4 +13,4 @@
 
 ## Configuração de desenvolvimento com: 
 - eslint
-- ts-node-dev# simple-postgreSQL
+- ts-node-dev
